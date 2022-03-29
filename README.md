@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lindemberg-oliveira-de-almeida
-- 👀 I’m interested in Apply for Programming jobs and Software Engineering Projects.
+- 👀 I’m interested in Appling for Programing jobs and learning about Software Engineering Projects.
 - 🌱 I’m currently learning Pyton and ASP.NET frameworks for free.
 - 💞️ I’m looking to collaborate on startups in an international and multicultural environment, here in Brazil.
 - 📫 How to reach me ... by phone or mail.
